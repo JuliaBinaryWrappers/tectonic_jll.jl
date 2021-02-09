@@ -15,4 +15,5 @@ Fontconfig_jll = "a3f928ae-7b40-5064-980b-68af3947d34b"
 Graphite2_jll = "3b182d85-2403-5c21-9c21-1e1f0cc25472"
 
 [compat]
+ICU_jll = "67.1.0+3"
 julia = "1.0"
