@@ -1,6 +1,6 @@
 name = "tectonic_jll"
 uuid = "d7dd28d6-a5e6-559c-9131-7eb760cdacc5"
-version = "0.12.0+0"
+version = "0.13.1+0"
 
 [deps]
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
