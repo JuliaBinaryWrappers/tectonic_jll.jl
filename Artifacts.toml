@@ -1,84 +1,84 @@
 [[tectonic]]
 arch = "aarch64"
-git-tree-sha1 = "9bcb127f03d8585b3c5ba9e2ceca935721480ca0"
+git-tree-sha1 = "c04131580d5ac21d77ef71a0fbbb46c01191de45"
 os = "macos"
 
     [[tectonic.download]]
-    sha256 = "3906ff76748b70d356555acdec290f1f13c876f47d3ad25d2ce7b05f1ca8b992"
-    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.16.9+0/tectonic.v0.16.9.aarch64-apple-darwin.tar.gz"
+    sha256 = "f952166765f3318a679f3a42cc7ce4a4ac4463a84dafa9e8bd9dee111a863e99"
+    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.17.0+0/tectonic.v0.17.0.aarch64-apple-darwin.tar.gz"
 [[tectonic]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d31a9564dae6d3d7047ef0609d6e54d8c1657aa3"
+git-tree-sha1 = "11acebf7f3923f02d1b6d49433fb429ea300f9b8"
 libc = "glibc"
 os = "linux"
 
     [[tectonic.download]]
-    sha256 = "2617d012859ff8183789901fd1574729316ea6d12765653fe38cab19497294ec"
-    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.16.9+0/tectonic.v0.16.9.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "919962223a6941051d6e2fdf82d68b02fdc12aa8b5bd37fe0ab8f6924b595581"
+    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.17.0+0/tectonic.v0.17.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[tectonic]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7f7f4f0e1ff1214f70d271b118139ccbafeb23ba"
+git-tree-sha1 = "a67a1ea8ac833d1b2b004812ba09ecbb33a35090"
 libc = "glibc"
 os = "linux"
 
     [[tectonic.download]]
-    sha256 = "6adc44e8c6a0408fe9a510a205fc7b33178d69a95293d8caf3736b9ca2999359"
-    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.16.9+0/tectonic.v0.16.9.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "deae57ede26cf1d979f18afd091fe5b44b88a76de53cc0ccdef50d79bcc18585"
+    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.17.0+0/tectonic.v0.17.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[tectonic]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "20227e52d576d099d1d34a0bb6d78535c49ebbb2"
+git-tree-sha1 = "2b49b6db64c1bcdcc3f62bdaea7178affddabab6"
 libc = "glibc"
 os = "linux"
 
     [[tectonic.download]]
-    sha256 = "71aeaba8a52b65eccfa84d61a886b9e09865a9f5089cbcfe7cf8b380a9d0fefa"
-    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.16.9+0/tectonic.v0.16.9.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "51e477e00a7afc5d47bdc46aec84cbc432aa8ae96d847599ff308f74436b209f"
+    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.17.0+0/tectonic.v0.17.0.i686-linux-gnu-cxx11.tar.gz"
 [[tectonic]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f9962bed1357504d111a4ec2e21eaf55d2651948"
+git-tree-sha1 = "0696f469a8cde676edb6f863d011893ec3fc03dd"
 libc = "glibc"
 os = "linux"
 
     [[tectonic.download]]
-    sha256 = "d62f272c84ba17de09d94ca9ec32be1e0af6f5215d28cc7bc784e7aa94c017fa"
-    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.16.9+0/tectonic.v0.16.9.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "4b4e408eb9423d89559531d6153ce1775c4e6f8378698b45509fed9f6435ae67"
+    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.17.0+0/tectonic.v0.17.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[tectonic]]
 arch = "x86_64"
-git-tree-sha1 = "509074cbf79f1381759828805cf740ea2a8ec8f9"
+git-tree-sha1 = "a393179405aba2c1105632aa10b7a8ab8b479878"
 os = "macos"
 
     [[tectonic.download]]
-    sha256 = "731b449a83862e391e4cc3799a233df4610eb1f4266d0ec8b4107e70c5e469e0"
-    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.16.9+0/tectonic.v0.16.9.x86_64-apple-darwin.tar.gz"
+    sha256 = "5108667cb5c25c86f69b699e82302c2517b130ca069c57f43ce7e72125be5d78"
+    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.17.0+0/tectonic.v0.17.0.x86_64-apple-darwin.tar.gz"
 [[tectonic]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "749e3088e40de76edb9c28c783cf87fdf27d5757"
+git-tree-sha1 = "5312d3ea74ab066698cf11a62431d398d1ba5815"
 libc = "glibc"
 os = "linux"
 
     [[tectonic.download]]
-    sha256 = "cbe4ee05ec27339243fdf4c729a4b2f4422e99726d8c024ad2e8ffb1049c8d3d"
-    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.16.9+0/tectonic.v0.16.9.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "5300f773a99cc46a0c3a9a0fd07daf5caa013efddd2f80bdb05e6a9242a51b6a"
+    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.17.0+0/tectonic.v0.17.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[tectonic]]
 arch = "x86_64"
-git-tree-sha1 = "a02b6135e99376b5c6806a31ad6613e37d5ffa07"
+git-tree-sha1 = "93772cc31306d9cb2b3de71d3aa2e48e6fc79c2e"
 os = "freebsd"
 
     [[tectonic.download]]
-    sha256 = "ccffaede9444dd6b0bf5cf0e297c348f8ccaf008a85763cc56c522a500efec71"
-    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.16.9+0/tectonic.v0.16.9.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "e4d8e83011143e5d8cbf95f5552aee7ea2ec1f612356db776991683186ee2ee1"
+    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.17.0+0/tectonic.v0.17.0.x86_64-unknown-freebsd.tar.gz"
 [[tectonic]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "163cd846cc59c58d157387c3bf483b8701c9e206"
+git-tree-sha1 = "d0d570dc3682be135e9fcd21a05bcbd3e3f59d90"
 os = "windows"
 
     [[tectonic.download]]
-    sha256 = "cd1bb96274cbf31be3d4e65f24a5600bdca86aa6e3db1393a593979643398434"
-    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.16.9+0/tectonic.v0.16.9.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "1babfd771d57ca7710736a45fc8636534a53cbd49e8ae6df9da462c7a817d6a1"
+    url = "https://github.com/JuliaBinaryWrappers/tectonic_jll.jl/releases/download/tectonic-v0.17.0+0/tectonic.v0.17.0.x86_64-w64-mingw32-cxx11.tar.gz"
