@@ -1,4 +1,4 @@
-# `tectonic_jll.jl` (v0.17.0+0)
+# `tectonic_jll.jl` (v0.17.0+1)
 
 [![deps](https://juliahub.com/docs/tectonic_jll/deps.svg)](https://juliahub.com/ui/Packages/General/tectonic_jll/)
 
